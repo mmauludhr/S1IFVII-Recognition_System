@@ -1,4 +1,3 @@
-# S1IFVII-Recognition_System
 # Recognition System
 ## Recognition System Lecture at S1 Teknik Informatika, Telkom University
 
