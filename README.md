@@ -18,7 +18,8 @@ Some of the documentation are written in __Indonesian__ language.
 
 # Running & Testing
 ## How to Run the Program
-This program is build using the MATLAB R2017b software and programming language. In order to run this system, you have to already installed MATLAB in your machine.
+Most of the assignment are written in __Python__ programming language and in __Jupyter Notebook__.
+Some package used are: _NumPy_, _Pandas_, _Scikit-Image_, and other image processing package.
 
 # Changelog
 ## Update
