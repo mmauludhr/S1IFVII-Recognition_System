@@ -6,7 +6,7 @@ This repository is created to record personal portfolio and lecture assignments.
 There are 4 assignment:
 1. Article Review
 2. Linear Algebra & Basic Image Processing
-3. _TBD_
+3. Image Classification & Object Recognition
 4. _TBD_
 
 # Authors
